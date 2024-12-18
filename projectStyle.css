@@ -1,0 +1,42 @@
+body {
+  background-color: #0E79B2;
+}
+h1 {
+  color: #FBFEF9;
+  font-size: 35px;
+  text-decoration: overline underline #FBFEF9;
+  letter-spacing: 5px;
+  text-shadow: 2px 2px 2px #F39237;
+}
+
+h1:hover {
+  font-size: 50px;
+  color: #090C08;
+  text-decoration: overline underline  #090C08;
+}
+
+ul {
+  list-style-type: none;
+  background-color: #F39237;
+  width: 100%;
+
+  overflow: hidden;
+  padding: 10;
+  margin: 0;
+}
+
+li {
+  display: inline;
+}
+
+a{
+  text-align: center;
+ padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #FBFEF9
+}
+
+li a:hover {
+  background-color:  #090C08
+}
